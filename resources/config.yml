@@ -1,0 +1,18 @@
+---
+#{player} จะแทนด้วชื่อผู้ที่เติมเงิน
+#{point} จะแทนด้วยจำนวนเงินที่เจิม จะคูณ กับ ตัวเลขใน multiply
+#{error} จะแทนค่าerror 
+#================================ Settings ==================================
+phone_number: 065xxxxxxx
+multiply: 1
+command:  givemoney {player} {point}
+setup: false
+#================================= Form Settings =========================
+title: §6=§f-§6= §aTopupUI 
+label: §4{errror} กรุณาทำตามสิ่งที่่บอกครับ
+input: §bลิ้งของขวัญ
+input_placeholder: https://gift.truemoney.com/campaign/?v=
+#========================= Chat Settings =============================
+payment_suscces: §aเติมเงินสำเร็จ
+#=====================================================================
+...
