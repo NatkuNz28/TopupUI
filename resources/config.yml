@@ -9,7 +9,7 @@ command:  givemoney {player} {point}
 setup: false
 #================================= Form Settings =========================
 title: §6=§f-§6= §aTopupUI 
-label: §4{errror} กรุณาทำตามสิ่งที่่บอกครับ
+label: §4{error} กรุณาทำตามสิ่งที่่บอกครับ
 input: §bลิ้งของขวัญ
 input_placeholder: https://gift.truemoney.com/campaign/?v=
 #========================= Chat Settings =============================
